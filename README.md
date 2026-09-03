@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **AtikHasanDev/AtikHasanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey, I'm Atik! 👋
+I'm a full-stack web development student on a mission to become a hirable junior developer. I'm currently deep in React, building real projects that sharpen my fundamentals — because I believe great apps start with great structure.
+
+I love collaborating, learning from others, and turning ideas into interfaces that actually feel good to use. The MERN stack is my home — and I'm working my way toward owning every layer of it.
