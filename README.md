@@ -18,18 +18,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > whoami                                                   ║
-║   Atik Hasan — Aspiring Full-Stack Developer                 ║
-║                                                              ║
-║   > status                                                   ║
-║   Learning · Building · Growing                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 # Hi, I'm Atik Hasan 👋
 ### Aspiring Full-Stack Web Developer | MERN Stack Learner
 
@@ -101,6 +89,22 @@ I believe clean code starts with strong fundamentals, so I'm taking the time to 
 </div>
 
 ---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   > whoami                                                   ║
+║   Atik Hasan — Aspiring Full-Stack Developer                 ║
+║                                                              ║
+║   > status                                                   ║
+║   Learning · Building · Growing                              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
