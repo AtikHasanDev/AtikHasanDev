@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Banner.png" alt="Banner Image" width="100%" />
+</p>
 
 <!--
 **AtikHasanDev/AtikHasanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
