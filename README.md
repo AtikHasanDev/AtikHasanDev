@@ -81,9 +81,9 @@ I believe clean code starts with strong fundamentals, so I'm taking the time to 
 
 <div align="center">
 
-![Atik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtikHasanDev&show_icons=true&theme=tokyonight&hide_border=true)
+![Atik's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AtikHasanDev&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtikHasanDev&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AtikHasanDev&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AtikHasanDev&theme=tokyonight&hide_border=true)
 
