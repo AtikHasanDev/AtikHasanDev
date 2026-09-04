@@ -93,15 +93,15 @@ I believe clean code starts with strong fundamentals, so I'm taking the time to 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > whoami                                                   ║
-║   Atik Hasan — Aspiring Full-Stack Developer                 ║
-║                                                              ║
-║   > status                                                   ║
-║   Learning · Building · Growing                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+          ╔══════════════════════════════════════════════════════════════╗
+          ║                                                              ║
+          ║   > whoami                                                   ║
+          ║   Atik Hasan — Aspiring Full-Stack Developer                 ║
+          ║                                                              ║
+          ║   > status                                                   ║
+          ║   Learning · Building · Growing                              ║
+          ║                                                              ║
+          ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
